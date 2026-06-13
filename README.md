@@ -1,4 +1,3 @@
-<br clear="both">
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F8BBD0" />
@@ -12,9 +11,7 @@
 
 <p align="left">I'm Nazwa Namira, an aspiring Logistics & Supply Chain professional exploring technology and web development.</p>
 
-###
-
-<br clear="both">
+##
 
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMyaHI5Mzd3bjI1czVqY3llMjNtc3hnMTY4Z2tqeHppa2pxNTVyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LTsNQjU4ZL8qdZMkl/giphy.gif"  />
 
