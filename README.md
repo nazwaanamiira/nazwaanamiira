@@ -1,17 +1,20 @@
+<br clear="both">
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F8BBD0" />
 </div>
 
-##
+###
 
 <h1 align="center">Hello, World!😁👋</h1>
 
-##
+###
 
 <p align="left">I'm Nazwa Namira, an aspiring Logistics & Supply Chain professional exploring technology and web development.</p>
 
-##
+###
+
+<br clear="both">
 
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMyaHI5Mzd3bjI1czVqY3llMjNtc3hnMTY4Z2tqeHppa2pxNTVyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LTsNQjU4ZL8qdZMkl/giphy.gif"  />
 
@@ -78,27 +81,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nazwaanamiira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/nazwaanamiira/nazwaanamiira/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/nazwaanamiira/nazwaanamiira/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://streak-stats.demolab.com?user=nazwaanamiira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="500" alt="streak graph"></div>
+ 
 
 ###
 
-<img src="https://raw.githubusercontent.com/nazwaanamiira/nazwaanamiira/snake-output/snake.svg" alt="Snake animation" />
 
+###
 
-<!--
-**nazwaanamiira/nazwaanamiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F8BBD0" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
