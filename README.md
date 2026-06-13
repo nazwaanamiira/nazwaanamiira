@@ -3,11 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=F8BBD0" />
 </div>
 
-###
+##
 
 <h1 align="center">Hello, World!😁👋</h1>
 
-###
+##
 
 <p align="left">I'm Nazwa Namira, an aspiring Logistics & Supply Chain professional exploring technology and web development.</p>
 
